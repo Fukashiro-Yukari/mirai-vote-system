@@ -29,6 +29,8 @@ object VoteSystem : KotlinPlugin(
 
     private fun CloseVote() {
         IsVoting = false
+        voteYes = 0
+        voteNo = 0
         IsVotingQQ.clear()
     }
 
