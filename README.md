@@ -5,5 +5,6 @@
 * /vote - /投票
 * /vote kick - /投票 踢人
 * /vote custom - /投票 自定义
+* /vote progress - /投票 进度
 * yes - 同意, 支持
 * no - 否, 不是, 反对
